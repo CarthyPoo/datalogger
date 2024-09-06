@@ -1,8 +1,8 @@
 Tech Stack:
-
 Python 2.7.13 
-  Additional Libraries - Simpy
-Modbus Slave
+  (Additional Libraries - Simpy)
+
+Program used - [Modbus Slave]([url](https://www.modbustools.com/modbus_slave.html))
 
 
 
