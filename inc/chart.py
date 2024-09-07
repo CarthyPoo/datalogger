@@ -1,8 +1,4 @@
-# Custom PlotWidget class by Andrew Keeley (andy@pcman.ca)
-# April 2018
-# Based on pyqtgraph.PlotWidget
 
-# For JCT Datalogger. Allows multiple plotitems in widget.
 
 from pyqtgraph.Qt import QtCore, QtGui
 from pyqtgraph import GraphicsView
