@@ -1,5 +1,3 @@
-# JCT Technology Ltd Datalogger Config File
-
 # Path to save log files
 LOG_PATH = "C:\ProgramData\Logfiles"
 
