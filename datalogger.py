@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-
-# JCT Technology Ltd Datalogger 1.0
-# by Andrew Keeley (andy@pcman.ca)
-# March 2018
 
 # standard / third party libraries
 import sys
